@@ -7,7 +7,5 @@ meenakshi nagpal2344234
 
 werwe erwer 
 
-kiran
-
-mini nagpal
+ini nagpal
 }
