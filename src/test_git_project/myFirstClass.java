@@ -4,7 +4,4 @@ public class myFirstClass {
 fgdfgdfg dfg dfg df  gdf
 
 meenakshi
-
-
-nagpal
 }
