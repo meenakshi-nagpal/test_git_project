@@ -12,4 +12,5 @@ rtrtrt
 
 tea pending2
 tea pending1wewe
+  new line
 }
