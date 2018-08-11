@@ -3,7 +3,7 @@ package test_git_project;
 public class myFirstClass {
 
 	private String hello;
-	private String hello1;
+	private String hello2;
 	private String hello3;
 	
 	public String getHello() {
@@ -12,16 +12,16 @@ public class myFirstClass {
 	public void setHello(String hello) {
 		this.hello = hello;
 	}
-	public String getHello1() {
-		return hello1;
+	public String getHello2() {
+		return hello2;
 	}
 	public void setHello1(String hello1) {
-		this.hello1 = hello1;
+		this.hello2 = hello1;
 	}
 	
 	@Override
 	public String toString() {
-		return "myFirstClass [hello=" + hello + ", hello1=" + hello1 + "]";
+		return "myFirstClass [hello=" + hello + ", hello1=" + hello2 + "]";
 	}
 	
 }
