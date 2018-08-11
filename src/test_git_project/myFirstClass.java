@@ -4,7 +4,7 @@ public class myFirstClass {
 
 	private String hello;
 	private String hello1;
-	
+	private String hello3;
 	
 	public String getHello() {
 		return hello;
