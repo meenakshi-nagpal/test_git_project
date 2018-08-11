@@ -4,6 +4,8 @@ public class myThirdClass {
 
 	private String t1;
 	private String t2;
+	private String t4;
+	private String t5;
 	public String getT1() {
 		return t1;
 	}
@@ -16,4 +18,9 @@ public class myThirdClass {
 	public void setT2(String t2) {
 		this.t2 = t2;
 	}
+	
+	public void setT4(String t4) {
+		this.t4 = t4;
+	}
+	
 }
