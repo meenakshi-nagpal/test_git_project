@@ -4,6 +4,7 @@ public class myThirdClass {
 
 	private String t1;
 	private String t2;
+	private String t3;
 	public String getT1() {
 		return t1;
 	}
