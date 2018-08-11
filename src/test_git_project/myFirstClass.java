@@ -2,30 +2,12 @@ package test_git_project;
 
 public class myFirstClass {
 
-	private String hello;
-	private String hello2;
-	private String hello3;
+	
 	private String hello34;
 	private String hello35;
 	private String hello36;
 	private String hello37;
 	private String hello38;
-	public String getHello() {
-		return hello;
-	}
-	public void setHello(String hello) {
-		this.hello = hello;
-	}
-	public String getHello2() {
-		return hello2;
-	}
-	public void setHello1(String hello1) {
-		this.hello2 = hello1;
-	}
-	
-	@Override
-	public String toString() {
-		return "myFirstClass [hello=" + hello + ", hello1=" + hello2 + "]";
-	}
+		
 	
 }
