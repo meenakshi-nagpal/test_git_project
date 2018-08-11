@@ -7,6 +7,7 @@ public class myFirstClass {
 	private String hello3;
 	private String hello34;
 	private String hello35;
+	private String hello36;
 	public String getHello() {
 		return hello;
 	}
