@@ -5,6 +5,7 @@ public class mySecondClass {
 	private String s1;
 	private String s2;
 	private String s3;
+	private String s4;
 	
 	public String getS1() {
 		return s1;
@@ -27,5 +28,14 @@ public class mySecondClass {
 
 	public void setS3(String s3) {
 		this.s3 = s3;
+	}
+	
+	
+	public String getS4() {
+		return s4;
+	}
+
+	public void setS4(String s4) {
+		this.s4 = s4;
 	}
 }
